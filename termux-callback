@@ -1,0 +1,4 @@
+#!/data/data/co.miescuela/files/usr/bin/bash
+set -e -u
+$TERMUX_CALLBACK "$@"
+
